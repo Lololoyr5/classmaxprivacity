@@ -1,1 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité | ClassMax</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 40px 20px; background-color: #f9f9f9; }
+        .container { background: #fff; padding: 40px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        h1 { color: #1a73e8; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        h2 { color: #202124; margin-top: 25px; font-size: 1.3em; }
+        p, li { font-size: 16px; color: #5f6368; }
+        .footer { margin-top: 40px; font-size: 0.9em; color: #888; text-align: center; border-top: 1px solid #eee; padding-top: 20px; }
+        .highlight { color: #1a73e8; font-weight: bold; }
+    </style>
+</head>
+<body>
 
+<div class="container">
+    <h1>Politique de Confidentialité ClassMax</h1>
+    <p><strong>Dernière mise à jour :</strong> Mars 2026</p>
+    <p>Chez <span class="highlight">ClassMax</span>, la protection de votre vie privée est notre priorité. Cette politique explique comment nous traitons vos informations lorsque vous utilisez notre application via l'authentification Google.</p>
+
+    <h2>1. Données collectées</h2>
+    <p>Nous collectons les données que vous nous fournissez lors de l'inscription (nom, email), ainsi que les données d'utilisation (progrès, quiz, activités) afin de personnaliser votre expérience d'apprentissage.</p>
+
+    <h2>2. Utilisation des données</h2>
+    <p>Vos données sont utilisées exclusivement pour :</p>
+    <ul>
+        <li>Personnaliser votre parcours scolaire</li>
+        <li>Sauvegarder votre progression</li>
+        <li>Améliorer notre service</li>
+    </ul>
+    <p><strong>Important :</strong> Nous ne vendons jamais vos données à des tiers.</p>
+
+    <h2>3. Stockage et sécurité</h2>
+    <p>Vos données sont stockées de manière sécurisée sur nos serveurs. Nous utilisons des protocoles de chiffrement (SSL/TLS) pour protéger vos informations personnelles contre tout accès non autorisé.</p>
+
+    <h2>4. Droits de l'utilisateur (RGPD)</h2>
+    <p>Conformément au Règlement Général sur la Protection des Données (RGPD), vous disposez d'un droit d'accès, de rectification et de suppression de vos données. Pour exercer ces droits, contactez-nous à <span class="highlight">privacy@classmax.app</span>.</p>
+
+    <h2>5. Cookies</h2>
+    <p>Nous utilisons des cookies essentiels au fonctionnement de l'application uniquement. Aucun cookie publicitaire ou de pistage tiers n'est utilisé.</p>
+
+    <h2>6. Mineurs</h2>
+    <p>ClassMax est conçu pour des élèves de tout âge. Pour les utilisateurs mineurs, nous appliquons des protections supplémentaires conformément à la législation en vigueur (CNIL / COPPA).</p>
+
+    <h2>7. Contact</h2>
+    <p>Pour toute question relative à votre vie privée ou pour demander la suppression de votre compte, envoyez un e-mail à : <br>
+    <strong>Email :</strong> privacy@classmax.app</p>
+
+    <div class="footer">
+        &copy; 2026 ClassMax App - Tous droits réservés.
+    </div>
+</div>
+
+</body>
+</html>
